@@ -1,0 +1,77 @@
+{
+  // TODO: Add 1.21.121 stable url and other data.
+  "versions": [
+
+    {
+      "id": "preview_1.21.130.26",
+      "name": "Minecraft Preview 1.21.130.26",
+      "version": "1.21.130.26",
+      "type": "preview",
+      "url": "http://assets1.xboxlive.com/6/05fe140b-9d00-4bb0-9379-6060a7d87bbf/98bd2335-9b01-4e4c-bd05-ccc01614078b/1.21.13026.0.e828de77-9716-42fe-81c5-a8449db51397/Microsoft.MinecraftWindowsBeta_1.21.13026.0_x64__8wekyb3d8bbwe.msixvc",
+      "filename": "Microsoft.MinecraftWindowsBeta_1.21.13026.0_x64__8wekyb3d8bbwe.msixvc",
+      "packageName": "Microsoft.MinecraftWindowsBeta",
+      "architecture": "x64",
+      "releaseDate": ""
+    },
+    {
+      "id": "stable_1.21.120.4",
+      "name": "Minecraft 1.21.120.4",
+      "version": "1.21.120.4",
+      "type": "stable",
+      "url": "http://assets1.xboxlive.com/1/7d219e7c-a46e-4afc-8176-cec808fc1e1b/7792d9ce-355a-493c-afbd-768f4a77c3b0/1.21.12004.0.0ed99274-787a-4d02-8344-7c6bd1ef77c8/MICROSOFT.MINECRAFTUWP_1.21.12004.0_x64__8wekyb3d8bbwe.msixvc",
+      "filename": "MICROSOFT.MINECRAFTUWP_1.21.12004.0_x64__8wekyb3d8bbwe.msixvc",
+      "packageName": "MICROSOFT.MINECRAFTUWP",
+      "architecture": "x64",
+      "releaseDate": ""
+    },
+    {
+      "id": "preview_1.21.130.22",
+      "name": "Minecraft Preview 1.21.130.22",
+      "version": "1.21.130.22",
+      "type": "preview",
+      "url": "http://assets2.xboxlive.com/3/9c302a78-01ec-4b9a-9d2e-bb845890deca/98bd2335-9b01-4e4c-bd05-ccc01614078b/1.21.13022.0.45387b4a-baa2-4b8c-857f-e254e54c2cdb/Microsoft.MinecraftWindowsBeta_1.21.13022.0_x64__8wekyb3d8bbwe.msixvc",
+      "filename": "Microsoft.MinecraftWindowsBeta_1.21.13022.0_x64__8wekyb3d8bbwe.msixvc",
+      "packageName": "Microsoft.MinecraftWindowsBeta",
+      "architecture": "x64",
+      "releaseDate": ""
+    },
+    {
+      "id": "preview_1.21.130.20",
+      "name": "Minecraft Preview 1.21.130.20",
+      "version": "1.21.130.20",
+      "type": "preview",
+      "url": "http://assets2.xboxlive.com/3/9c302a78-01ec-4b9a-9d2e-bb845890deca/98bd2335-9b01-4e4c-bd05-ccc01614078b/1.21.13022.0.45387b4a-baa2-4b8c-857f-e254e54c2cdb/Microsoft.MinecraftWindowsBeta_1.21.13022.0_x64__8wekyb3d8bbwe.msixvc",
+      "filename": "Microsoft.MinecraftWindowsBeta_1.21.13022.0_x64__8wekyb3d8bbwe.msixvc",
+      "packageName": "Microsoft.MinecraftWindowsBeta",
+      "architecture": "x64",
+      "releaseDate": ""
+    },
+    {
+      "id": "preview_1.21.120.24",
+      "name": "Minecraft Preview 1.21.120.24",
+      "version": "1.21.120.24",
+      "type": "preview",
+      "url": "http://assets2.xboxlive.com/1/b8827b40-998d-4b15-b73f-ff7d70ae1e9c/98bd2335-9b01-4e4c-bd05-ccc01614078b/1.21.12024.0.b0ec0ab6-f9ab-41fa-b664-9091300e8f90/Microsoft.MinecraftWindowsBeta_1.21.12024.0_x64__8wekyb3d8bbwe.msixvc",
+      "filename": "Microsoft.MinecraftWindowsBeta_1.21.12024.0_x64__8wekyb3d8bbwe.msixvc",
+      "packageName": "Microsoft.MinecraftWindowsBeta",
+      "architecture": "x64",
+      "releaseDate": ""
+    },
+    {
+      "id": "preview_1.21.120.23",
+      "name": "Minecraft Preview 1.21.120.23",
+      "version": "1.21.120.23",
+      "type": "preview",
+      "url": "http://assets2.xboxlive.com/4/c21d7589-ffaf-4544-b1c5-926d72752e6c/98bd2335-9b01-4e4c-bd05-ccc01614078b/1.21.12023.0.9f1b49ff-7011-4af2-bb8c-edc1de4b41df/Microsoft.MinecraftWindowsBeta_1.21.12023.0_x64__8wekyb3d8bbwe.msixvc",
+      "filename": "Microsoft.MinecraftWindowsBeta_1.21.12023.0_x64__8wekyb3d8bbwe.msixvc",
+      "packageName": "Microsoft.MinecraftWindowsBeta",
+      "architecture": "x64",
+      "releaseDate": ""
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2025-11-05T23:59:00Z",
+    "repository": "https://github.com/Seraphic-Studio/minecraft-versions",
+    "version": "0.0.1"
+  }
+}
